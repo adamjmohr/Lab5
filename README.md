@@ -1,2 +1,2 @@
 # Lab5 Fall 2018
-Rock, paper, scissors command line game.
+Rock, paper, scissors command line game. Practice polymorphism and inheritance.
